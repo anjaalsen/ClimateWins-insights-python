@@ -16,4 +16,10 @@ It includes variables like temperature, wind speed, snow depth, and radiation, c
 ## Methods
 - K-Nearest Neighbors (KNN), Decision Tree, Artificial Neural Network (ANN)  
 - Data preprocessing: Scaling, feature selection, hyperparameter tuning  
-- Performance evaluation: Confusion matrices, accuracy comparison  
+- Performance evaluation: Confusion matrices, accuracy comparison
+
+## Folder Contents
+01 Project Management: Contains the project brief and related documentation.  
+02 Data: Includes two subfolders: 'Original Data': Original datasets. 'Prepared Data': Cleaned data ready for analysis.  
+03 Scripts: Python code for the analysis, executed using Jupyter notebooks.  
+04 Visualisations: Contains the visualizations created for analysis.  
